@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/de
+END
+DeVariantSubjectDetail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/de/DeVariantSubjectDetail.groovy
+END
+DeVariantSubjectIdx.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/de/DeVariantSubjectIdx.groovy
+END
+DeVariantDataSet.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/de/DeVariantDataSet.groovy
+END
+DeSNPInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/de/DeSNPInfo.groovy
+END

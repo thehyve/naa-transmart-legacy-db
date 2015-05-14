@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/scripts
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/scripts/_Install.groovy
+END
+_Events.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/scripts/_Events.groovy
+END
+_Uninstall.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/scripts/_Uninstall.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/scripts/_Upgrade.groovy
+END

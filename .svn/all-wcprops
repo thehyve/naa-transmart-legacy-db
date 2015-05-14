@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/pfizer_2_0/!svn/ver/12/transmart-legacy-db
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/LICENSE
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/application.properties
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/README.md
+END
+TransmartLegacyDbGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/TransmartLegacyDbGrailsPlugin.groovy
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/plugin.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/.classpath
+END

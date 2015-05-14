@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2
+END
+GeneWithSnp.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/GeneWithSnp.groovy
+END
+SnpDataByProbe.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpDataByProbe.groovy
+END
+SampleInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SampleInfo.groovy
+END
+SnpDatasetListByProbe.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpDatasetListByProbe.groovy
+END
+OntNode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/OntNode.groovy
+END
+PatientTrial.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/PatientTrial.groovy
+END
+SnpDataByPatient.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpDataByPatient.groovy
+END
+SubjectSnpDataset.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SubjectSnpDataset.groovy
+END
+SnpProbeSortedDef.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpProbeSortedDef.groovy
+END
+SnpDatasetByPatient.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpDatasetByPatient.groovy
+END
+Comparison.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/Comparison.groovy
+END
+Concept.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/Concept.groovy
+END
+StringLineReader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/StringLineReader.groovy
+END
+OntNodeTag.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/OntNodeTag.groovy
+END
+SnpDataset.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpDataset.groovy
+END
+SnpInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/pfizer_2_0/!svn/ver/13/transmart-legacy-db/grails-app/domain/i2b2/SnpInfo.groovy
+END

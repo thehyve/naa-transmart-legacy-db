@@ -1,0 +1,34 @@
+10
+
+dir
+13
+https://pfizer.collab.net/svn/repos/pfizer_2_0/transmart-legacy-db/grails-app/domain/com/recomdata/transmart
+https://pfizer.collab.net/svn/repos/pfizer_2_0
+
+
+
+2014-11-26T02:14:37.655489Z
+13
+berubh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ce8fff06-d8af-4ed1-80fd-e911f56ee515
+
+domain
+dir
+
+plugin
+dir
+
